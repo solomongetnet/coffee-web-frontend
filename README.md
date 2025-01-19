@@ -17,17 +17,15 @@ Welcome to our Coffee Shop website! This project is a frontend showcase built us
 - **React Router**: Implement navigation and routing within the application.
 - **Redux**: Manage application state efficiently, especially for managing the shopping cart.
 
-
-## Preview
-
-Insert screenshots or gifs showcasing your website here.
+Live Preview 
+www.
 
 ## Getting Started
 
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/solomongetnet/coffee-web-frontend.git
 
-Install dependencies:cd your-repository
-npm installRun the application:npm startOpen your browser and navigate to http://localhost:3000 to view the website.ContributingContributions are welcome! Feel free to fork the repository and submit pull requests to suggest improvements, fix bugs, or add new features
+Install dependencies:cd coffee-web-frontend
+npm install run the application:npm start Open your browser and navigate to http://localhost:5173 to view the website.ContributingContributions are welcome! Feel free to fork the repository and submit pull requests to suggest improvements, fix bugs, or add new features
