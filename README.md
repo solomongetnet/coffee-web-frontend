@@ -18,7 +18,7 @@ Welcome to our Coffee Shop website! This project is a frontend showcase built us
 - **Redux**: Manage application state efficiently, especially for managing the shopping cart.
 
 Live Preview 
-www.
+www.coffee-web-frontend.vercel.app
 
 ## Getting Started
 
